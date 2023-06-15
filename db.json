@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "productTitle": "Hp",
+      "productCategory": "electronics",
+      "productPrice": "34000",
+      "features": "HP Ryzen 3 Quad Core 5300U - (8 GB/512 GB SSD/Windows 11 Home) 15s-eq2143au Thin and Light Laptop  (15.6 inch, Natural Silver, 1.69 Kg, With MS Office)",
+      "id": 1,
+      "icon": "images/laptop.jpg"
+    },
+    {
+      "productTitle": "samsung",
+      "productCategory": "Mobile",
+      "productPrice": "14000",
+      "features": "(Renewed) Samsung Galaxy M31 (Ocean Blue, 8GB RAM, 128GB Storage)",
+      "id": 2,
+      "icon": "images/samsung.jpg"
+    },
+    {
+      "productTitle": "Bata",
+      "productCategory": "Fashion",
+      "productPrice": "2000",
+      "features": "Care Instructions: Clean Your Shoes With Leather Cleaner Or Leather Shampoo, And Use A Good Quality Brush To Remove Loose Surface Dirt; If Your Shoes Are Wet After Cleaning, Let Them Air-Dry Before Your Proceed With The Next Step; Dry Shoes In Room Temperature Only And Never Expose Them To The Sun, Heat From The Sun Will Cause The Leather To Shrink, Wrinkle, Harden, Dry, And Crack<Br><br><br>",
+      "id": 3,
+      "icon": "images/bata.jpg"
+    }
+
+  ]
+}
